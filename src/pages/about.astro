@@ -1,0 +1,132 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="fr">
+	<head>
+		<BaseHead title={`À propos — ${SITE_TITLE}`} description="Mission éditoriale de Veille IA : gros modèles, avancées majeures, actualité de l'IA générale, sans bullshit." />
+	</head>
+	<body>
+		<Header />
+		<main class="about-page">
+			<section class="about-hero" aria-labelledby="about-title">
+				<p class="eyebrow">Positionnement éditorial</p>
+				<h1 id="about-title">À propos de Veille IA</h1>
+				<p class="lede">
+					Un média technique pour comprendre les avancées de l'IA générale — gros modèles, architectures, enjeux industriels et réglementaires — sans se laisser aveugler par le buzz.
+				</p>
+			</section>
+
+			<section class="about-grid" aria-label="Mission et promesse">
+				<article class="card panel">
+					<p class="eyebrow">Mission</p>
+					<h2>Décrypter l'IA générale</h2>
+					<p>
+						Le site couvre les fondation models, les nouvelles architectures (MoE, multimodaux, agents), les scaling laws, la course aux GPU, les enjeux d'alignement et de sécurité, et les bouleversements industriels.
+					</p>
+					<p>
+						L'objectif n'est pas de relayer les communiqués de presse : c'est d'expliquer ce qui change vraiment, ce qui est du bruit, et ce qui va impacter les développeurs et les entreprises.
+					</p>
+				</article>
+
+				<article class="card panel dark-panel">
+					<p class="eyebrow">Promesse</p>
+					<h2>Vérifié, sourcé, sans bullshit</h2>
+					<p>
+						Les articles privilégient les explications traçables, les sources accessibles et les compromis explicites. Quand une limite existe — technique, économique, éthique — elle doit apparaître clairement.
+					</p>
+				</article>
+			</section>
+
+			<section class="audience" aria-labelledby="audience-title">
+				<p class="eyebrow">Pour qui</p>
+				<h2 id="audience-title">Développeurs, tech leads, curieux qui veulent comprendre le terrain</h2>
+				<div class="audience-list">
+					<p>Pour celles et ceux qui veulent suivre l'évolution des gros modèles, comprendre les enjeux derrière les annonces, anticiper les shifts technologiques, ou simplement ne pas se faire avoir par le marketing.</p>
+					<p>Le ton reste volontairement sobre : assez concret pour passer à l'action, assez prudent pour ne pas transformer chaque nouveauté en révolution. L'IA générale mérite mieux que les incantations — elle mérite de l'analyse, des sources et un peu de recul.</p>
+				</div>
+			</section>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	.about-page {
+		width: min(var(--container), calc(100% - 2rem));
+	}
+
+	.about-hero {
+		max-width: 880px;
+		padding: clamp(2rem, 6vw, 5rem) 0 2rem;
+	}
+
+	.about-hero h1 {
+		max-width: 860px;
+	}
+
+	.about-grid {
+		display: grid;
+		grid-template-columns: minmax(0, 1.1fr) minmax(280px, 0.9fr);
+		gap: 1rem;
+		margin: 2rem 0;
+	}
+
+	.panel {
+		padding: clamp(1.25rem, 3vw, 2rem);
+	}
+
+	.panel h2 {
+		font-size: clamp(1.7rem, 3vw, 2.45rem);
+	}
+
+	.panel p:last-child {
+		margin-bottom: 0;
+	}
+
+	.dark-panel {
+		background: #111827;
+		color: #d8dee8;
+	}
+
+	.dark-panel h2 {
+		color: #fffdf8;
+	}
+
+	.dark-panel .eyebrow {
+		color: #8ee6d4;
+	}
+
+	.audience {
+		margin-top: 3rem;
+		padding-top: 2rem;
+		border-top: 1px solid var(--border);
+	}
+
+	.audience h2 {
+		max-width: 880px;
+	}
+
+	.audience-list {
+		display: grid;
+		grid-template-columns: repeat(2, minmax(0, 1fr));
+		gap: 1.25rem;
+		max-width: 980px;
+		color: var(--text-muted);
+	}
+
+	@media (max-width: 760px) {
+		.about-page {
+			width: min(100% - 1rem, var(--container));
+		}
+
+		.about-grid,
+		.audience-list {
+			grid-template-columns: 1fr;
+		}
+	}
+</style>

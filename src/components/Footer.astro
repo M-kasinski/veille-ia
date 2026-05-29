@@ -1,0 +1,84 @@
+---
+import { SITE_TITLE } from '../consts';
+
+const today = new Date();
+---
+
+<footer class="site-footer" data-pagefind-ignore>
+	<div class="footer-inner">
+		<p class="footer-brand">{SITE_TITLE}</p>
+		<nav aria-label="Navigation secondaire" data-pagefind-ignore>
+			<a href="/">Accueil</a>
+			<a href="/blog/">Articles</a>
+			<a href="/recherche/">Rechercher</a>
+			<a href="/about/">À propos</a>
+			<a href="/rss.xml">RSS</a>
+		</nav>
+		<p class="legal">© {today.getFullYear()} {SITE_TITLE}. Publication indépendante, lisible et vérifiable.</p>
+	</div>
+</footer>
+
+<style>
+	.site-footer {
+		border-top: 1px solid var(--border);
+		background: #111827;
+		color: #cfd5dc;
+		padding: 2.2rem 0 3rem;
+	}
+
+	.footer-inner {
+		display: grid;
+		grid-template-columns: 1fr auto;
+		align-items: center;
+		gap: 1rem 2rem;
+		width: min(var(--container), calc(100% - 2rem));
+		margin: 0 auto;
+	}
+
+	.footer-brand,
+	.legal {
+		margin: 0;
+	}
+
+	.footer-brand {
+		color: #fffdf8;
+		font-weight: 820;
+		letter-spacing: -0.035em;
+	}
+
+	nav {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: flex-end;
+		gap: 0.35rem 0.9rem;
+	}
+
+	a {
+		color: #d8f3ee;
+		font-size: 0.92rem;
+		font-weight: 650;
+		text-decoration: none;
+	}
+
+	a:hover {
+		color: #ffffff;
+		text-decoration: underline;
+		text-underline-offset: 0.22em;
+	}
+
+	.legal {
+		grid-column: 1 / -1;
+		color: #98a2b3;
+		font-size: 0.88rem;
+	}
+
+	@media (max-width: 720px) {
+		.footer-inner {
+			grid-template-columns: 1fr;
+		}
+
+		nav {
+			justify-content: flex-start;
+		}
+	}
+</style>

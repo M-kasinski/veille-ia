@@ -1,0 +1,94 @@
+---
+import { SITE_TITLE } from '../consts';
+import HeaderLink from './HeaderLink.astro';
+---
+
+<header class="site-header" data-pagefind-ignore>
+	<nav class="site-nav" aria-label="Navigation principale" data-pagefind-ignore>
+		<a class="brand" href="/" aria-label="Accueil — Veille IA">
+			<span class="brand-mark" aria-hidden="true">IA</span>
+			<span>{SITE_TITLE}</span>
+		</a>
+		<div class="internal-links">
+			<HeaderLink href="/">Accueil</HeaderLink>
+			<HeaderLink href="/blog">Articles</HeaderLink>
+			<HeaderLink href="/recherche">Rechercher</HeaderLink>
+			<HeaderLink href="/about">À propos</HeaderLink>
+		</div>
+	</nav>
+</header>
+
+<style>
+	.site-header {
+		position: sticky;
+		top: 0;
+		z-index: 20;
+		border-bottom: 1px solid color-mix(in srgb, var(--border) 78%, transparent);
+		background: color-mix(in srgb, var(--bg-elevated) 86%, transparent);
+		backdrop-filter: blur(18px);
+	}
+
+	.site-nav {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		width: min(var(--container), calc(100% - 2rem));
+		min-height: 72px;
+		margin: 0 auto;
+		gap: 1rem;
+	}
+
+	.brand {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.65rem;
+		color: var(--text);
+		font-weight: 820;
+		letter-spacing: -0.04em;
+		text-decoration: none;
+	}
+
+	.brand:hover {
+		color: var(--text);
+	}
+
+	.brand-mark {
+		display: inline-grid;
+		place-items: center;
+		width: 2.35rem;
+		height: 2.35rem;
+		border: 1px solid var(--accent-dark);
+		border-radius: 0.85rem;
+		background: var(--surface-strong);
+		color: #d8f3ee;
+		font-family: var(--font-mono);
+		font-size: 0.78rem;
+		font-weight: 800;
+		letter-spacing: 0;
+	}
+
+	.internal-links {
+		display: flex;
+		align-items: center;
+		gap: 0.25rem;
+		border: 1px solid var(--border);
+		border-radius: var(--radius-pill);
+		background: color-mix(in srgb, #fff 72%, transparent);
+		padding: 0.25rem;
+	}
+
+	@media (max-width: 640px) {
+		.site-nav {
+			align-items: flex-start;
+			flex-direction: column;
+			min-height: 0;
+			padding: 0.8rem 0;
+		}
+
+		.internal-links {
+			width: 100%;
+			overflow-x: auto;
+			justify-content: space-between;
+		}
+	}
+</style>
