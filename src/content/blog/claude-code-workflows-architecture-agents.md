@@ -6,14 +6,20 @@ tags: ["claude-code", "workflow", "agentic", "mcp", "devops"]
 author: "Veille IA"
 draft: false
 sources:
-  - label: "Thread sur les workflows avancés"
+  - label: "Guide complet stack Claude Code par alexop.dev"
+    url: "https://alexop.dev/posts/understanding-claude-code-full-stack/"
+  - label: "Mental model Skills/Subagents/Plugins"
+    url: "https://levelup.gitconnected.com/a-mental-model-for-claude-code-skills-subagents-and-plugins-3dea9924bf05"
+  - label: "Docs officielles Subagents"
+    url: "https://code.claude.com/docs/en/sub-agents"
+  - label: "Guide Hooks/Subagents/Skills par ofox.ai"
+    url: "https://ofox.ai/blog/claude-code-hooks-subagents-skills-complete-guide-2026/"
+  - label: "Architecture production par boringbot.substack"
+    url: "https://boringbot.substack.com/p/claude-code-skills-subagents-hooks"
+  - label: "Thread workflows avancés sur X"
     url: "https://x.com/smratitiwa86867/status/2058242920197882334"
   - label: "Boris Cherny sur Claude Code"
     url: "https://x.com/bcherny/status/2060390852619272526"
-  - label: "Guide CLAUDE.md et best practices"
-    url: "https://x.com/NainsiDwiv50980/status/2032391599095775631"
-  - label: "Hooks et automatisation du cycle de vie"
-    url: "https://x.com/i/status/2038633532852158745"
 ---
 
 La plupart des développeurs utilisent Claude comme un ChatGPT amélioré : ils ouvrent une session, écrivent un prompt, obtiennent une réponse. C'est efficace pour des tâches simples, mais cela exploite à peine **10 % du potentiel** de Claude Code en 2026.
@@ -57,7 +63,7 @@ Connexion à GitHub, bases de données, APIs internes, navigateurs (extension Ch
 
 ## Ce que cela signifie en pratique
 
-Salesforce et d'autres entreprises utilisent ces workflows pour accomplir des migrations et livraisons de features qui auraient pris des centaines de jours-ingénieur, en une fraction du temps, avec une couverture de tests élevée et des boucles de vérification autonomes.
+Salesforce et d'autres entreprises utilisent ces workflows pour accomplir des migrations et livraisons de features en une fraction du temps habituel, avec une couverture de tests élevée et des boucles de vérification autonomes — le pattern est documenté par les utilisateurs avancés sur les forums techniques et les blogs spécialisés (alexop.dev, ofox.ai, boringbot.substack).
 
 Le développeur n'est plus un exécutant — c'est un **manager d'équipes d'IA**. Le système s'améliore à chaque projet parce que la mémoire, les règles et les skills s'accumulent.
 

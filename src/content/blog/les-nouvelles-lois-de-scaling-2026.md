@@ -6,16 +6,20 @@ tags: ["scaling", "architecture", "recherche", "MoE", "multi-agent"]
 author: "Veille IA"
 draft: false
 sources:
+  - label: "Paper: Scaling Test-Time Compute (arxiv 2408.03314)"
+    url: "https://arxiv.org/abs/2408.03314"
+  - label: "Paper: The Art of Scaling Test-Time Compute (arxiv 2512.02008)"
+    url: "https://arxiv.org/abs/2512.02008"
+  - label: "Concept Paper: Multi-Agent LLM Systems (preprints.org)"
+    url: "https://www.preprints.org/manuscript/202511.1370"
+  - label: "Paper: Scaling Agent Systems (arxiv 2512.08296)"
+    url: "https://arxiv.org/abs/2512.08296"
+  - label: "Inference-Time Scaling Update (introl.com)"
+    url: "https://introl.com/blog/inference-time-scaling-research-reasoning-models-december-2025"
   - label: "Yi Tay sur le scaling de la recherche IA"
     url: "https://x.com/YiTayML/status/1943392226689929618"
   - label: "Scaling laws multi-agents"
     url: "https://x.com/omarsar0/status/2001321178095382706"
-  - label: "Modèles MoE et sparsité"
-    url: "https://x.com/LiorOnAI/status/2026427340306403836"
-  - label: "Attention sub-quadratique"
-    url: "https://x.com/atbigthumb/status/2058488040440447027"
-  - label: "Modèles edge et efficacité"
-    url: "https://x.com/casper_hansen_/status/1951656675250684163"
 ---
 
 Pendant des années, la règle était simple : plus de paramètres, plus de tokens, plus de FLOPs = meilleur modèle. Les lois de scaling de Kaplan et Chinchilla étaient la bible. En 2025-2026, cette équation ne tient plus. Un doublement des performances demande parfois un quintuple du compute, et certains runs massifs de 2025 n'ont pas significativement battu les modèles précédents malgré des ressources colossales.
