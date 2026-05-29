@@ -36,3 +36,4 @@ public/og/           # images OG générées
 ## Ligne éditoriale
 
 Vérifié, sourcé, sans bullshit. Chaque article cite ses **sources primaires** (docs officielles, dépôts, Hugging Face) ; les chiffres (tailles, licences, versions, benchmarks) sont recoupés avant publication.
+
