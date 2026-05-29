@@ -1,18 +1,18 @@
-# Labo IA Locale
+# Veille IA
 
-Média tech francophone sur l'**IA locale et open-source** : faire tourner des LLM chez soi, self-hosting, quantization, runtimes, GPU grand public & Apple Silicon, modèles open-weight, fine-tuning, RAG local, agents.
+Média tech francophone sur les **gros modèles, les architectures et l'actualité de l'IA générale** : fondation models, scaling laws, multimodal, agents, alignement, enjeux industriels.
 
-🌐 **En ligne :** https://labo-ia-locale.vercel.app
+🌐 **En ligne :** [https://veille-ia-zeta.vercel.app](https://veille-ia-zeta.vercel.app/)
 
 ## Stack
 
-- [Astro 5](https://astro.build) — site statique, content collections (Markdown)
+- [Astro 6](https://astro.build/) — site statique, content collections (Markdown)
 - Déploiement **Vercel** (auto-deploy à chaque push sur `main`)
 - Images Open Graph générées au build (`scripts/generate-og-images.mjs`, via `sharp`)
 
 ## Développement
 
-```bash
+```shell
 npm install
 npm run dev      # http://localhost:4321
 npm run build    # génère les images OG puis build dans dist/
@@ -30,10 +30,25 @@ src/
   styles/global.css  # design system
 scripts/
   generate-og-images.mjs   # images OG par article (build-time)
-public/og/           # images OG générées
+public/og/
 ```
 
-## Ligne éditoriale
+## Ajouter un article
 
-Vérifié, sourcé, sans bullshit. Chaque article cite ses **sources primaires** (docs officielles, dépôts, Hugging Face) ; les chiffres (tailles, licences, versions, benchmarks) sont recoupés avant publication.
+Créer un fichier `.md` dans `src/content/blog/` avec le frontmatter suivant :
 
+```yaml
+---
+title: "Titre de l'article"
+description: "Description courte et claire."
+pubDate: 2026-05-29
+tags: ["tag1", "tag2"]
+author: "Veille IA"
+draft: false
+sources:
+  - label: "Source"
+    url: "https://..."
+---
+```
+
+Puis `git push origin main` — Vercel rebuild automatiquement.
