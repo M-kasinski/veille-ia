@@ -4,7 +4,7 @@ description: "Un message minimaliste, des coordonnées à Taipei et une phrase :
 pubDate: 2026-05-30
 tags: ["radar-ia", "nvidia", "computex", "pc-ia", "windows-arm"]
 author: "Veille IA"
-draft: false
+draft: true
 sources:
   - label: "Tweet NVIDIA — A new era of PC"
     url: "https://x.com/NVIDIA/status/2060390710797328574"
