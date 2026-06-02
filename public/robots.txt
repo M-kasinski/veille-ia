@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://veille-ia-actu.vercel.app/sitemap-index.xml

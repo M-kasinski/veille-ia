@@ -6,7 +6,7 @@ import { defineConfig, fontProviders } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://veille-ia.vercel.app',
+	site: 'https://veille-ia-actu.vercel.app',
 	integrations: [mdx(), sitemap()],
 	fonts: [
 		{
