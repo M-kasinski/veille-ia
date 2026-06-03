@@ -63,10 +63,3 @@ Troisième point : l’articulation avec les États. La distribution des gains d
 Les **250 millions de dollars** ne changent pas directement les capacités des modèles. Ils changent le cadrage. OpenAI reconnaît publiquement que l’impact économique de l’IA est assez massif et incertain pour justifier un programme dédié. C’est une bonne chose, à condition de ne pas y voir une réponse suffisante.
 
 La vraie question n’est pas de savoir si l’IA “crée ou détruit des emplois” en bloc. La question est : quels workflows, quelles professions, à quel rythme, avec quelle redistribution des gains ? Si ce programme produit des données solides sur ces points, il sera utile. S’il produit surtout une couche de vernis philanthropique autour d’une course au déploiement, il rejoindra la grande bibliothèque des initiatives très généreuses et très commodes.
-
-## Sources
-
-- NPR — OpenAI Foundation dedicates $250 million to research economic changes from AI : https://www.npr.org/2026/05/27/g-s1-124501/openai-foundation-dedicates-250-million-to-research-economic-changes-from-ai
-- Reuters — OpenAI Foundation commits $250 million to help workers, economies navigate AI disruption : https://www.reuters.com/business/openai-foundation-commits-250-million-help-workers-economies-navigate-ai-2026-05-27/
-- OpenAI Foundation — Economic Futures in the Age of AI : https://openai.com/news/economic-futures-in-the-age-of-ai
-- OpenAI Foundation : https://openai.com/foundation/

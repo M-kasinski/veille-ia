@@ -69,9 +69,3 @@ Si les agents peuvent réduire le coût de ces adaptations, alors la vitesse de 
 La limite, encore une fois, est la généralisation. PithTrain est récent, ciblé et beaucoup moins éprouvé que les stacks industriels. Ses résultats viennent des auteurs du système, avec un benchmark qu’ils introduisent eux-mêmes. Il faudra des réplications indépendantes, d’autres agents, d’autres tâches, et surtout des retours de vrais labs utilisant le framework sous pression.
 
 Mais l’idée est saine. Dans une industrie où l’on parle beaucoup d’agents autonomes, peu de projets mesurent sérieusement si notre infrastructure est faite pour eux. PithTrain met le doigt sur une évidence que les ingénieurs connaissent bien : la performance n’est pas seulement ce que fait la machine quand tout marche. C’est aussi le coût de comprendre pourquoi elle ne marche plus.
-
-## Sources
-
-- [MLC — PithTrain: A Compact, Agent-Native MoE Training System](https://blog.mlc.ai/2026/06/01/pithtrain-compact-agent-native-moe-training-system)
-- [arXiv — PithTrain: A Compact and Agent-Native MoE Training System](https://arxiv.org/abs/2605.31463)
-- [GitHub — mlc-ai/pith-train](https://github.com/mlc-ai/pith-train)

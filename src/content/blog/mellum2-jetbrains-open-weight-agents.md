@@ -82,10 +82,3 @@ Si les réponses sont positives, Mellum2 pourrait devenir un modèle de sous-age
 Mellum2 est moins spectaculaire qu’une annonce “frontier”, mais peut-être plus représentatif de la prochaine phase des agents IA : des systèmes composés de modèles spécialisés, rapides, ouverts et orchestrés.
 
 JetBrains ne dit pas “voici le modèle ultime”. Il dit plutôt : voici une brique pour faire fonctionner des workflows IA réels avec moins de latence et moins de coût. Dans le contexte actuel, c’est une annonce sérieuse. Et une bonne nouvelle pour l’open-weight : la compétition ne se joue pas seulement au sommet, elle se joue aussi dans les rouages.
-
-## Sources
-
-- JetBrains AI Blog — Mellum2 Goes Open Source : https://blog.jetbrains.com/ai/2026/06/mellum2-goes-open-source-a-fast-model-for-ai-workflows/
-- arXiv — Mellum2 Technical Report : https://arxiv.org/abs/2605.31268
-- Hugging Face — JetBrains Mellum 2 collection : https://huggingface.co/collections/JetBrains/mellum-2
-- Hugging Face — Mellum2 Thinking model card : https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking

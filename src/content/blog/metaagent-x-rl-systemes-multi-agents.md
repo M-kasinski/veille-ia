@@ -82,10 +82,3 @@ La troisième est la **généralisation**. Les gains sur six benchmarks math/cod
 MetaAgent-X est intéressant parce qu’il cible une faiblesse structurelle des agents actuels : l’écart entre orchestration adaptative et exécution figée. Le paper ne prouve pas que nous avons trouvé la recette des agents autonomes fiables. Il montre plutôt une direction crédible : entraîner le système multi-agent comme un tout, avec attribution de crédit entre conception et exécution.
 
 C’est exactement le genre de recherche à suivre en 2026. Pas parce qu’elle promet un agent magique, mais parce qu’elle remplace une partie du bricolage par une boucle d’apprentissage explicite. Et dans l’agentic AI, passer du bricolage au signal d’entraînement, c’est souvent là que les choses sérieuses commencent.
-
-## Sources
-
-- [arXiv — MetaAgent-X: Breaking the Ceiling of Automatic Multi-Agent Systems via End-to-End Reinforcement Learning](https://arxiv.org/abs/2605.14212)
-- [arXiv HTML — version expérimentale du paper](https://arxiv.org/html/2605.14212v1)
-- [GitHub — PettingLLMs / MetaAgent-X](https://github.com/pettingllms-ai/PettingLLMs)
-- [Hugging Face — Mercury7353/MetaAgent-X](https://huggingface.co/Mercury7353/MetaAgent-X)

@@ -57,9 +57,3 @@ Trois indicateurs seront plus utiles que le montant de la levée.
 D’abord, la **capacité servie** : est-ce qu’Anthropic peut maintenir disponibilité, latence et qualité à mesure que Claude devient plus utilisé en entreprise ? Ensuite, la **marge par workflow agentique** : les agents vendus cher mais coûteux à exécuter ne créent pas forcément une économie saine. Enfin, la **différenciation technique** : si les écarts entre Claude, GPT, Gemini et Grok se resserrent, la distribution et le prix prendront plus de poids que la performance brute.
 
 La Series H d’Anthropic est donc moins un simple événement financier qu’un marqueur de phase. La bataille de l’IA frontier entre dans un régime où les meilleurs modèles doivent être accompagnés d’un accès privilégié au compute, d’un réseau de partenaires semi-conducteurs, d’une force de vente enterprise et d’une crédibilité financière presque souveraine. Charmant petit hobby de laboratoire, devenu infrastructure mondiale. Comme souvent, la facture arrive avant la philosophie.
-
-## Sources
-
-- [Anthropic — Series H funding announcement](https://www.anthropic.com/news/series-h)
-- [TechCrunch — Anthropic raises $65 billion, nears $1T valuation](https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/)
-- [Reuters — Anthropic's valuation surges to $965 billion](https://www.reuters.com/business/anthropic-raises-65-billion-now-valued-965-billion-2026-05-28/)

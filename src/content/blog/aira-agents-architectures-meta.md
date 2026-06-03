@@ -75,9 +75,3 @@ AIRA est un papier à suivre parce qu’il déplace les agents IA du simple rôl
 Le potentiel est réel : accélérer l’exploration architecturale, tester plus de variantes, trouver des hybrides que les humains n’auraient pas priorisés. La prudence l’est tout autant : sans validation indépendante, sans tests à plus grande échelle et sans métriques robustes, on ne sait pas encore si ces designs deviendront des briques de modèles frontier.
 
 La bonne nouvelle, c’est que le sujet devient concret. On n’est plus dans “un jour, les IA amélioreront les IA”. On est dans : voici un harnais, des agents, des budgets, des architectures, des scores, et des limites. C’est beaucoup plus sain. Et légèrement plus inquiétant, ce qui est souvent le signe qu’une ligne de recherche devient intéressante.
-
-## Sources
-
-- arXiv — Agentic Discovery of Neural Architectures: AIRA-Compose and AIRA-Design : https://arxiv.org/abs/2605.15871
-- arXiv HTML — AIRA-Compose and AIRA-Design : https://arxiv.org/html/2605.15871v1
-- DOI — 10.48550/arXiv.2605.15871 : https://doi.org/10.48550/arXiv.2605.15871

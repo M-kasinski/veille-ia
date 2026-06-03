@@ -69,9 +69,3 @@ Troisième limite : la correction en langage naturel est séduisante, mais elle 
 COLLEAGUE.SKILL mérite l’attention parce qu’il traite un angle souvent sous-estimé : la compétence d’un agent n’est pas seulement dans ses poids ni dans son contexte immédiat. Elle est aussi dans les artefacts qu’on lui donne à charger. Si ces artefacts sont lisibles, versionnés et corrigeables, on gagne un levier de contrôle. S’ils restent opaques, on déplace simplement le risque.
 
 La prochaine étape sera de voir si ce type de package peut être évalué proprement : avant/après sur tâches professionnelles, robustesse aux corrections, conflits entre skills, sécurité des sources, et portabilité réelle entre hôtes. Mais la direction est saine. Les agents ont besoin de moins de mystique et de plus d’ingénierie documentaire. Ce n’est pas aussi vendeur qu’un robot qui clique partout, mais c’est probablement ce qui rendra les agents moins pénibles à vivre en production.
-
-## Sources
-
-- [arXiv — COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation](https://arxiv.org/abs/2605.31264)
-- [Version HTML du papier COLLEAGUE.SKILL](https://arxiv.org/html/2605.31264v1)
-- [Projet GitHub COLLEAGUE.SKILL](https://github.com/titanwings/colleague-skill)

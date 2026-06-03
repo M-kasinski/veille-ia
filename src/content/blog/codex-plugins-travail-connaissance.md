@@ -59,9 +59,3 @@ Mais le concurrent le plus dur n’est peut-être pas un autre modèle. C’est 
 Cette annonce n’est pas une simple extension produit. Elle marque le glissement de Codex vers une **plateforme d’exécution agentique pour le travail de connaissance**. Le modèle n’est plus seulement “écrire du code puis lancer des tests”, mais “connecter des outils, manipuler des artefacts, publier des sorties, agir dans des workflows métier”.
 
 C’est puissant, mais ce n’est pas magique. Les plugins métiers auront besoin de permissions fines, de logs lisibles, d’environnements de test, de validations humaines et d’une vraie politique de données. Sans cela, Codex risque de devenir très vite ce que tous les DSI redoutent : un stagiaire brillant, branché à tous les outils, et convaincu d’avoir compris le contexte. Charmant. Légèrement radioactif.
-
-## Sources
-
-- [OpenAI — Codex for every role, tool, and workflow](https://openai.com/index/codex-for-every-role-tool-workflow/)
-- [TechCrunch — OpenAI launches new Codex tools for white-collar work](https://techcrunch.com/2026/06/02/openai-launches-new-codex-tools-for-white-collar-work/)
-- [VentureBeat — OpenAI's Codex update lets agents build interactive enterprise workspaces](https://venturebeat.com/orchestration/openais-codex-update-lets-agents-build-interactive-enterprise-workspaces-via-sites-and-role-specific-plugins/)

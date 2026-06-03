@@ -71,9 +71,3 @@ NVIDIA est bien placé pour pousser cette direction, parce que l’entreprise co
 Cosmos 3 est une annonce importante parce qu’elle déplace la conversation des modèles multimodaux vers les **modèles actionnables**. Comprendre une vidéo est utile. Générer un futur plausible est plus utile. Relier ce futur à une action robotique ou à une politique d’autonomie, c’est le vrai saut.
 
 Il reste beaucoup d’incertitude : robustesse hors distribution, qualité réelle des données synthétiques, passage de la simulation au monde réel, coûts de post-entraînement, maturité des benchmarks. Mais le cap est net. NVIDIA veut que le world model devienne une infrastructure de base pour la physical AI, pas une curiosité de laboratoire. Et cette fois, le mot “agent” commence à vouloir dire autre chose que “un chatbot avec des outils”.
-
-## Sources
-
-- [NVIDIA Newsroom — NVIDIA launches Cosmos 3](https://nvidianews.nvidia.com/news/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai)
-- [NVIDIA Research — Cosmos 3 technical report](https://research.nvidia.com/labs/cosmos-lab/cosmos3/technical-report.pdf)
-- [NVIDIA — Cosmos platform page](https://www.nvidia.com/en-us/ai/cosmos/)

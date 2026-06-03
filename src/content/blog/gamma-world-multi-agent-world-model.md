@@ -61,9 +61,3 @@ Gamma-World s’inscrit dans une tendance plus large : les modèles ne sont plus
 La contribution technique intéressante n’est donc pas “NVIDIA fait une vidéo multi-joueurs”. C’est l’architecture : une représentation d’identité d’agent qui évite les slots fixes, une attention qui passe par des hubs pour scaler, et un chemin vers le streaming causal. Si ces idées se vérifient à plus grande échelle, elles pourraient se retrouver dans des simulateurs d’agents, des jeux génératifs, ou des boucles d’entraînement robotique.
 
 Le point à surveiller maintenant est simple : la publication effective du code et des checkpoints. Sans eux, Gamma-World reste un papier solide et bien ciblé. Avec eux, il deviendra un banc d’essai intéressant pour mesurer jusqu’où les world models peuvent aller quand le monde contient plus d’un protagoniste.
-
-## Sources
-
-- NVIDIA Research — γ-World: Generative Multi-Agent World Modeling Beyond Two Players : https://research.nvidia.com/labs/sil/projects/gamma-world/
-- arXiv — Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players : https://arxiv.org/abs/2605.28816
-- GitHub — nv-tlabs/Gamma-World : https://github.com/nv-tlabs/Gamma-World

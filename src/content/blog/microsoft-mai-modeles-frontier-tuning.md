@@ -53,10 +53,3 @@ La prudence reste nécessaire. Les annonces Microsoft citent des performances é
 Il manque aussi un élément important pour l’écosystème ouvert : aucune publication de poids n’est annoncée. À ce stade, MAI ressemble à une famille propriétaire distribuée via plateformes et produits, pas à une nouvelle base pour l’IA locale ou open-weight.
 
 La conclusion est donc assez nette : Microsoft vient de poser une brique majeure de sa stratégie IA post-dépendance OpenAI. Pas forcément parce que MAI-Thinking-1 écrase déjà tous les modèles concurrents — ce point demandera des preuves indépendantes — mais parce que Microsoft aligne enfin modèles, produits, cloud, agents et tuning entreprise dans une même histoire.
-
-## Sources
-
-- [Microsoft AI — Building a hill-climbing machine: Launching seven new MAI models](https://microsoft.ai/news/building-a-hillclimbing-machine-launching-seven-new-mai-models/)
-- [Microsoft Blog — Microsoft Build 2026: Be yourself at work](https://blogs.microsoft.com/blog/2026/06/02/microsoft-build-2026-be-yourself-at-work/)
-- [The Verge — Microsoft’s first advanced reasoning AI is here](https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026)
-- [Mashable — Microsoft launches new MAI family of AI models at Build](https://mashable.com/tech/microsoft-launches-new-mai-family-of-models-at-build)

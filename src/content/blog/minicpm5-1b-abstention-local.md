@@ -77,10 +77,3 @@ En clair : MiniCPM5-1B est prometteur, pas miraculeux. Ce qui tombe bien, les mi
 MiniCPM5-1B mérite d’être surveillé parce qu’il améliore le compromis taille-performance dans une zone très pratique : les modèles autour d’un milliard de paramètres. Son score Artificial Analysis, sa licence Apache 2.0, ses formats locaux et son comportement d’abstention en font un candidat sérieux pour des assistants embarqués et des agents légers.
 
 La leçon dépasse OpenBMB. La prochaine vague open-weight ne sera pas seulement faite de MoE géants. Elle passera aussi par des petits modèles plus efficaces, plus faciles à déployer, et surtout moins mythomanes. Pour un agent local, c’est une qualité sous-estimée : mieux vaut un petit modèle qui connaît ses limites qu’un grand bavard avec une cape en carton.
-
-## Sources
-
-- [Artificial Analysis — MiniCPM5-1B: The leading 1B open weights model](https://artificialanalysis.ai/articles/minicpm5-1b-the-leading-1b-open-weights-model)
-- [Artificial Analysis — MiniCPM5-1B model page](https://artificialanalysis.ai/models/minicpm5-1b-non-reasoning)
-- [Hugging Face — openbmb/MiniCPM5-1B](https://huggingface.co/openbmb/MiniCPM5-1B)
-- [Gigazine — MiniCPM5-1B release coverage](https://gigazine.net/gsc_news/en/20260526-minicpm5-1b-openbmb-ai/)

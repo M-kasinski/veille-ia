@@ -65,10 +65,3 @@ Si cette intégration tient, elle peut compter pour les agents de bureau : lire 
 M3 mérite l’attention parce qu’il pousse l’open-weight vers un terrain plus ambitieux : non seulement générer du texte ou du code, mais tenir un **workflow agentique multimodal long**. C’est exactement la zone où les modèles fermés ont actuellement l’avantage grâce à l’intégration produit, aux outils et à l’infrastructure.
 
 La prochaine étape est claire : publication effective des poids, rapport technique complet, licence lisible, tests indépendants sur les benchmarks annoncés, et retours développeurs sur des dépôts réels. Si ces éléments confirment les chiffres de MiniMax, M3 deviendra un jalon sérieux pour les agents open-weight. Sinon, ce sera une très bonne annonce marketing avec quelques bonnes idées techniques. Ce ne serait pas la première ; l’industrie a déjà un musée entier pour ça.
-
-## Sources
-
-- MiniMax — MiniMax M3 release report : https://www.minimax.io/blog/minimax-m3
-- MiniMax — MiniMax M3 model page : https://www.minimax.io/models/text/m3
-- MiniMax API docs — model release notes : https://platform.minimax.io/docs/release-notes/models
-- Startup Fortune — MiniMax M3 coverage and benchmark caveats : https://startupfortune.com/minimax-m3-gives-chinese-ai-labs-a-new-frontier-coding-test/

@@ -67,9 +67,3 @@ WorldKV propose une réponse élégante au dilemme mémoire/vitesse des world mo
 Les claims principaux — fidélité comparable ou supérieure au full KV, environ **2×** de throughput, compression des chunks et absence de fine-tuning — sont suffisamment importants pour mériter surveillance. Ils restent toutefois limités aux benchmarks et modèles évalués dans le papier. La prochaine étape sera de voir si cette logique résiste à des environnements plus ouverts, plus longs, plus chaotiques.
 
 La bonne nouvelle, c’est que la recherche sur les world models devient plus concrète. On ne parle plus seulement de générer de belles vidéos. On parle de mémoire, de cohérence, de revisite, de coût d’inférence. Bref, des détails pénibles. Ceux qui décident si un système devient utile — ou juste spectaculaire pendant trente secondes.
-
-## Sources
-
-- arXiv — WorldKV: Efficient World Memory with World Retrieval and Compression : https://arxiv.org/abs/2605.22718v1
-- WorldKV project page — KAIST CVLab : https://cvlab-kaist.github.io/WorldKV/
-- GitHub — cvlab-kaist/WorldKV : https://github.com/cvlab-kaist/WorldKV

@@ -74,9 +74,3 @@ C’est aussi une invitation à relativiser certains benchmarks de coding agents
 AsyncTool est important parce qu’il mesure un angle mort très pratique : la capacité d’un agent à travailler dans le temps, pas seulement dans une séquence idéale d’appels. Les agents actuels savent de mieux en mieux choisir des outils. La prochaine marche consiste à savoir attendre intelligemment.
 
 C’est moins spectaculaire qu’un nouveau score SWE-bench, mais probablement plus proche du quotidien des agents utiles. En production, les outils sont lents, les tâches se chevauchent, les résultats arrivent dans le désordre. Si l’agent ne sait pas vivre dans ce désordre, il n’est pas autonome : il est juste synchrone avec une bonne brochure.
-
-## Sources
-
-- [arXiv — AsyncTool: Evaluating the Asynchronous Function Calling Capability under Multi-Task Scenarios](https://arxiv.org/abs/2605.27995)
-- [OpenReview — AsyncTool submission ICLR 2026](https://openreview.net/forum?id=FfedFHs6Tx)
-- [arXiv — Concurrency without Model Changes: Future-based Asynchronous Function Calling for LLMs](https://arxiv.org/abs/2605.15077)

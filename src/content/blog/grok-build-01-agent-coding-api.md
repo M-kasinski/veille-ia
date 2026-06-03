@@ -71,10 +71,3 @@ Le tarif annoncé rend ces usages moins absurdes économiquement qu’avec des m
 xAI arrive tard sur le segment, mais avec une proposition claire : un modèle de coding agent exposé en API, un CLI terminal-native, du mode headless, de l’ACP, du MCP, et une promesse de vitesse. C’est exactement la surface attendue en 2026 pour entrer dans la compétition.
 
 Reste une question : Grok Build est-il un vrai agent de production ou un bon produit de démonstration encore fragile ? Les annonces montrent une architecture plausible. Les preuves de performance manquent encore. À ce stade, la meilleure posture est simple : tester sur des tâches bornées, mesurer le taux de réussite, inspecter les diffs, et ne pas confondre vitesse de génération avec qualité logicielle.
-
-## Sources
-
-- [xAI — Grok Build 0.1 on API](https://x.ai/news/grok-build-0-1)
-- [xAI — Introducing Grok Build](https://x.ai/news/grok-build-cli)
-- [xAI Docs — Getting Started with Grok Build](https://docs.x.ai/build/overview)
-- [Engadget — xAI introduces its coding agent called Grok Build](https://www.engadget.com/2173482/xai-coding-agent-grok-build/)

@@ -75,9 +75,3 @@ Pour les équipes qui construisent des agents, le message est clair : traiter l�
 Pour la recherche, le cadre `⟨π, env, pop, substrate⟩` pousse à mesurer autre chose que la réussite ponctuelle d’une tâche. Il faut évaluer la stabilité dans le temps, les effets de population, la résistance aux outils malveillants, la qualité de l’infrastructure, la gouvernance des compétences et la capacité à expliquer après coup pourquoi une action a été prise.
 
 La conclusion sobre : les agents sortent du bac à sable. C’est une bonne nouvelle pour l’utilité, une moins bonne pour la sécurité naïve. La prochaine génération d’agents ne se jouera pas seulement dans les poids des modèles ; elle se jouera dans le runtime, la mémoire, les permissions et la discipline d’ingénierie autour. Comme souvent, l’intelligence arrive en costume, mais la fiabilité entre par la porte de service.
-
-## Sources
-
-- OpenReview — OpenClaw Research: A Systematic Survey of Large Language Model Agents in Open Deployment : https://openreview.net/pdf/a61d0148c193cc1a63b2dc3149b83f1396ee0f76.pdf
-- GitHub — Awesome-OpenClaw-Research : https://github.com/shuolucs/Awesome-OpenClaw-Research
-- arXiv — Clawed and Dangerous: Can We Trust Open Agentic Systems? : https://arxiv.org/html/2603.26221v1

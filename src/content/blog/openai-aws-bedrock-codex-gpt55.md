@@ -57,9 +57,3 @@ Cette disponibilité générale confirme une tendance : les modèles frontier de
 Pour les utilisateurs, le bénéfice est simple : plus de choix. Pour le marché, c’est une étape de consolidation. Les laboratoires IA restent ceux qui entraînent les modèles ; les hyperscalers deviennent les routes de déploiement, les guichets d’achat et les couches de contrôle. Dans l’IA agentique, cette couche compte autant que le modèle, parce qu’un agent utile est un agent connecté à des systèmes réels.
 
 Le résultat : GPT-5.5 et Codex ne gagnent pas une médaille aujourd’hui. Ils gagnent un badge d’accès à l’infrastructure AWS de production. Moins spectaculaire, mais dans les entreprises, c’est souvent la porte qu’il fallait ouvrir.
-
-## Sources
-
-- [AWS News Blog — Get started with OpenAI GPT-5.5, GPT-5.4 models, and Codex on Amazon Bedrock](https://aws.amazon.com/blogs/aws/get-started-with-openai-gpt-5-5-gpt-5-4-models-and-codex-on-amazon-bedrock/)
-- [AWS What's New — GPT-5.5, GPT-5.4, and Codex from OpenAI generally available on Amazon Bedrock](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-openai-models-codex-generally-available/)
-- [OpenAI — OpenAI models, Codex, and Managed Agents come to AWS](https://openai.com/index/openai-on-aws/)

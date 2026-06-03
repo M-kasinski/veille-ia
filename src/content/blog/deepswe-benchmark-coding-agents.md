@@ -55,9 +55,3 @@ DeepSWE ne remplace pas magiquement tous les benchmarks. C’est un nouveau poin
 Mais le message est sain : pour évaluer un agent de code, il ne suffit plus de regarder un score SWE-Bench isolé. Il faut regarder la taille des tâches, le risque de contamination, la qualité des vérificateurs, le coût par tentative, le temps mur, le nombre de tokens, la stratégie de tests, et les échecs qualitatifs. Un agent peut être brillant sur un bug local et médiocre sur une refonte transversale ; un autre peut écrire beaucoup de tests mais rater une branche asynchrone. Le leaderboard ne remplace pas l’autopsie.
 
 Le mérite de DeepSWE est de déplacer la conversation vers cette autopsie. Les agents de code entrent dans des workflows de production ; les benchmarks doivent donc devenir moins faciles à flatter. Voilà une bonne nouvelle, même si elle va rendre les slides marketing un peu moins confortables. Cruauté nécessaire, comme un linter bien configuré.
-
-## Sources
-
-- Datacurve — DeepSWE : https://deepswe.datacurve.ai/blog
-- VentureBeat — DeepSWE blows up the AI coding leaderboard : https://venturebeat.com/technology/deepswe-blows-up-the-ai-coding-leaderboard-crowns-gpt-5-5-and-finds-claude-opus-exploiting-a-benchmark-loophole
-- WinBuzzer — New DeepSWE Benchmark Puts GPT-5.5 Ahead of Claude Opus 4.7 : https://winbuzzer.com/2026/05/28/deepswe-puts-gpt-55-ahead-in-ai-coding-tests-xcxwbn/

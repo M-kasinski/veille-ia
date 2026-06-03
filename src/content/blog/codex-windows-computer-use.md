@@ -65,10 +65,3 @@ Pour les équipes, la bonne posture est donc prudente : utiliser Computer Use po
 Codex sur Windows avec Computer Use n’est pas une révolution de modèle ; c’est une évolution de surface d’exécution. Et c’est précisément pour cela que c’est intéressant. Les agents de coding ne gagneront pas seulement en intelligence brute, mais en capacité à agir dans les environnements réels où le logiciel est construit, testé et cassé.
 
 La limite foreground sur Windows rappelle que nous ne sommes pas encore dans l’autonomie fluide. Mais le cap est clair : OpenAI veut faire de Codex une session de travail distribuée, supervisable depuis le téléphone, capable d’alterner terminal, fichiers, Git, navigateur et applications desktop. C’est moins propre qu’un benchmark. C’est aussi beaucoup plus proche de la production.
-
-## Sources
-
-- [OpenAI Developers — Codex changelog](https://developers.openai.com/codex/changelog)
-- [OpenAI Developers — Computer Use dans Codex](https://developers.openai.com/codex/app/computer-use)
-- [Neowin — OpenAI rolls out major Codex for Windows update](https://www.neowin.net/news/openai-rolls-out-major-codex-for-windows-update-with-computer-use-and-mobile-access/)
-- [Thurrott — OpenAI brings Computer Use to Codex app on Windows](https://www.thurrott.com/a-i/openai-a-i/336754/openai-brings-computer-use-to-codex-app-on-windows)

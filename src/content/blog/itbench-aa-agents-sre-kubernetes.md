@@ -73,10 +73,3 @@ La prochaine étape sera de voir si les progrès viennent surtout des modèles o
 ITBench-AA met une borne réaliste sur l’état des agents IA pour l’IT : prometteurs, mais loin d’être fiables en autonomie. Sous 50 % sur un benchmark SRE sérieux, cela ne veut pas dire « inutilisable ». Cela veut dire « à garder dans la boucle humaine, avec mesure, logs et garde-fous ».
 
 C’est moins spectaculaire qu’une démo qui redémarre un pod toute seule. C’est aussi beaucoup plus proche de ce dont les équipes de production ont besoin : savoir précisément quand l’agent aide, quand il hallucine, et quand il faut lui retirer les clés de la salle machine.
-
-## Sources
-
-- [IBM Research sur Hugging Face — ITBench-AA announcement](https://huggingface.co/blog/ibm-research/itbench-aa)
-- [Artificial Analysis — ITBench-AA leaderboard](https://artificialanalysis.ai/evaluations/itbench-aa)
-- [IBM Research — ITBench publication](https://research.ibm.com/publications/developing-ai-agents-for-it-automation-tasks-with-itbench)
-- [ITBench-AA dataset](https://huggingface.co/datasets/ArtificialAnalysis/ITBench-AA/tree/main/sre)

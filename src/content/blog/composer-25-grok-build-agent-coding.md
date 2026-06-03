@@ -53,9 +53,3 @@ Trois questions détermineront si Composer 2.5 est un vrai jalon ou une mise à 
 D’abord, la **fiabilité sur longues sessions** : l’agent garde-t-il le cap après plusieurs cycles test/correction ? Ensuite, le **coût par tâche réussie**, plus pertinent que le prix au million de tokens quand l’agent peut gaspiller beaucoup de contexte. Enfin, la **surface d’intégration** : un modèle enfermé dans un seul outil peut être excellent, mais il sera plus difficile à évaluer et à intégrer dans des workflows d’entreprise.
 
 Pour l’instant, la conclusion raisonnable est celle-ci : Composer 2.5 confirme que xAI prend le coding agent au sérieux, et que Grok Build n’est pas seulement une interface autour d’un modèle généraliste. Mais faute de system card complète, il faut éviter de surinterpréter. Le signal est fort ; la preuve détaillée reste à publier.
-
-## Sources
-
-- [xAI — Composer 2.5](https://x.ai/news/composer-2-5)
-- [Artificial Analysis — Composer 2.5 sur le Coding Agent Index](https://artificialanalysis.ai/articles/cursor-composer-2-5-coding-agent-index)
-- [xAI — News](https://x.ai/news)

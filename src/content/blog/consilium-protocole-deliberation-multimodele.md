@@ -75,9 +75,3 @@ Il faut aussi éviter une confusion classique : une architecture inspirée de la
 Malgré cela, Consilium est une piste intéressante parce qu’elle déplace la question. Au lieu de demander quel modèle est “le plus intelligent”, elle demande comment structurer une conversation entre modèles pour exposer les zones de fragilité. Dans un monde où les réponses IA deviennent abondantes, ce genre de protocole d’audit pourrait valoir plus qu’un point de benchmark supplémentaire.
 
 Le désaccord n’est pas toujours une panne. Parfois, c’est le seul endroit où le système commence à dire quelque chose d’utile.
-
-## Sources
-
-- [arXiv — Emergent Collaborative Deliberation in Multi-Model AI Systems](https://arxiv.org/abs/2606.00005)
-- [Zenodo — Consilium Protocol preprint record](https://doi.org/10.5281/zenodo.19229039)
-- [arXiv PDF — Consilium Protocol](https://arxiv.org/pdf/2606.00005)

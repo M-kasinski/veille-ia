@@ -63,9 +63,3 @@ Le point à surveiller maintenant sera l’écart entre les benchmarks internes 
 3. Le coût par tâche réussie est-il compétitif face à Claude, GPT, Gemini, DeepSeek ou MiniMax sur des agents de code ?
 
 Si les réponses sont positives, Qwen3.7-Max pourrait devenir une brique sérieuse pour l’agentic enterprise. Sinon, il restera un très bon modèle de démo avec de beaux tableaux. La différence, comme souvent en IA, se verra dans les logs.
-
-## Sources
-
-- Qwen Blog — Qwen3.7: The Agent Frontier : https://qwen.ai/blog?id=qwen3.7
-- Alibaba Cloud Community — Qwen3.7: The Agent Frontier : https://www.alibabacloud.com/blog/qwen3-7-the-agent-frontier_603154
-- TechNode — Alibaba introduces Qwen3.7-Max as next-gen AI agent model : https://technode.com/2026/05/21/alibaba-introduces-qwen3-7-max-as-next-gen-ai-agent-model/

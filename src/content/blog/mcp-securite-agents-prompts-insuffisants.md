@@ -61,10 +61,3 @@ Si MCP entre dans un workflow de développement ou d’entreprise, il faut trait
 Pour les éditeurs d’agents, la priorité est encore plus nette : construire des contrôles au niveau du client et du protocole. Un agent capable de choisir dynamiquement parmi des centaines d’outils doit avoir une politique de permissions explicite. Les confirmations humaines doivent être liées à la gravité de l’action, pas à une popup décorative. Et les logs doivent permettre de reconstruire pourquoi un outil a été appelé, avec quels arguments, et à partir de quel contexte.
 
 MCP reste une bonne idée. Justement parce qu’elle est bonne, elle devient critique. Et une infrastructure critique ne peut pas dépendre de la bonne humeur probabiliste d’un modèle. Le standard doit mûrir vers l’attestation, l’isolation et la vérification. Sinon, les agents autonomes auront une qualité rare : ils automatiseront aussi les incidents.
-
-## Sources
-
-- [Anthropic — Introducing the Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
-- [arXiv — Breaking the Protocol](https://arxiv.org/abs/2601.17549)
-- [arXiv — VIPER-MCP](https://arxiv.org/abs/2605.21392)
-- [Anthropic Engineering — Code execution with MCP](https://www.anthropic.com/engineering/code-execution-with-mcp)

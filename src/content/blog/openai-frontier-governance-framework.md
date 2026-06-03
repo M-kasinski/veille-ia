@@ -75,9 +75,3 @@ Le Frontier Governance Framework d’OpenAI n’est pas une révolution techniqu
 La bonne lecture n’est donc ni « OpenAI a réglé la sécurité », ni « ce n’est que de la communication ». C’est plus sobre : OpenAI formalise publiquement une partie de sa réponse aux régulations frontier, et cette formalisation donne un aperçu du minimum attendu pour les systèmes IA à haut impact.
 
 La prochaine bataille ne sera pas seulement celle des tokens par seconde ou des scores de raisonnement. Elle sera aussi celle des preuves : preuves de contrôle, preuves d’audit, preuves de sécurité, preuves de mise à jour. Moins sexy qu’un leaderboard, certes. Mais dans une entreprise régulée, le PDF qui tient devant un audit vaut parfois plus qu’un modèle qui brille sur X.
-
-## Sources
-
-- [OpenAI — OpenAI’s Frontier Governance Framework](https://openai.com/index/openai-frontier-governance-framework/)
-- [PDF — OpenAI Frontier Governance Framework](https://cdn.openai.com/pdf/e37d949b-8c9f-4d76-b99e-4272f4631a7e/openai-frontier-governance-framework.pdf)
-- [AI News — OpenAI governance frameworks secure enterprise AI deployments](https://www.artificialintelligence-news.com/news/scaling-safe-enterprise-ai-openai-governance-frameworks/)

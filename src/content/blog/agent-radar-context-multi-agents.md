@@ -69,9 +69,3 @@ La troisième question concerne la confiance. Si tous les messages du transcript
 Agent-Radar illustre une tendance importante : l’agentique progresse par **context engineering** autant que par nouveaux modèles. Les performances des agents ne dépendront pas seulement du LLM appelé, mais de la manière dont le système structure la mémoire, sélectionne les preuves, pondère les interlocuteurs et conserve l’historique.
 
 La proposition de Purdue n’est pas magique, mais elle attaque un vrai problème : les agents collaboratifs échouent souvent parce qu’ils se noient dans leur propre conversation. Leur donner un radar contextuel, plutôt qu’un simple historique interminable, est une piste solide. Et contrairement à beaucoup d’idées agentiques, celle-ci a le bon goût de ne pas demander un cluster de GPU pour commencer à être testée.
-
-## Sources
-
-- [arXiv — Enhancing Multi-Agent Communication through Attention Steering with Context Relevance](https://arxiv.org/abs/2605.30136)
-- [arXiv HTML — Agent-Radar full paper](https://arxiv.org/html/2605.30136)
-- [arXiv DOI — 10.48550/arXiv.2605.30136](https://doi.org/10.48550/arXiv.2605.30136)

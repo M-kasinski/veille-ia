@@ -55,9 +55,3 @@ Pour l’écosystème, l’effet probable est double. D’un côté, une IPO d�
 Trois questions méritent d’être suivies. D’abord, le calendrier : Anthropic peut rester en phase confidentielle quelque temps, et rien ne garantit une IPO rapide. Ensuite, la qualité des revenus : adoption entreprise, usage développeur, API, contrats cloud et produits grand public ne racontent pas la même histoire. Enfin, la structure des coûts : sans visibilité sur les dépenses de calcul, il est impossible de juger proprement la rentabilité future.
 
 Le dépôt S-1 confidentiel ne répond pas encore à ces questions. Il les rend inévitables. Et c’est déjà une nouvelle importante : l’IA frontier entre dans une phase où la performance des modèles devra cohabiter avec une discipline de marché beaucoup moins impressionnable qu’un fil X enthousiaste.
-
-## Sources
-
-- [Anthropic — Confidential draft S-1 submitted to the SEC](https://www.anthropic.com/news/confidential-draft-s1-sec)
-- [CNBC — Anthropic confidentially files IPO prospectus with SEC](https://www.cnbc.com/2026/06/01/anthropic-ipo-s1-prospectus.html)
-- [Anthropic — Series H funding at $965B post-money valuation](https://www.anthropic.com/news/series-h)
